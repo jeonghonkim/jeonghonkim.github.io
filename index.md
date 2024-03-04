@@ -1,29 +1,32 @@
-## Portfolio
+## Work Samples </br>
+
+#### Please click the project title to view the details
 
 ---
 
-### Category Name 1 
+### Python Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Site Audit Automation](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+[Office Occupancy Recovery Trends in NYC](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
+
+### GIS Projects
+
+[Retial Crime in NYC](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+### Certificates
+
+[IBM Data Engineering](https://github.com/jeonghonkim/IBM_Data_Engineering)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
