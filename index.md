@@ -1,4 +1,4 @@
-## Work Samples </br>
+## Work Samples
 
 #### Please click the project title to view the details
 
