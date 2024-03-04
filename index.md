@@ -26,7 +26,7 @@
 ### Certificates
 
 [IBM Data Engineering](https://github.com/jeonghonkim/IBM_Data_Engineering)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/IBM_Data_Engineering-JeongHoonKim.jpg"/>
 
 ---
 
